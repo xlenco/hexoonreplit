@@ -8,8 +8,8 @@ This directory is a brief example of a [Hexo](https://hexo.io/) site that can be
 
 Deploy your own Hexo project with Replit.（ NOT RECOMMENDED ！）
 
-<a href="https://repl.it/github/valetzx/hexoonreplit">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/valetzx/hexoonreplit" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/xlenco/hexoonreplit">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/github/xlenco/hexoonreplit" style="height: 40px; width: 190px;" />
 </a>
 
 Deploy your own Hexo project with Replit Education：
@@ -18,7 +18,7 @@ Deploy your own Hexo project with Replit Education：
 
 Copy code blow to Replit Shell then Enter
 
-`git clone https://github.com/valetzx/hexoonreplit && mv -b hexoonreplit/* ./ && mv -b hexoonreplit/.[^.]* ./ && rm -rf *~ && rm -rf hexoonreplit`
+`git clone https://github.com/xlenco/hexoonreplit && mv -b hexoonreplit/* ./ && mv -b hexoonreplit/.[^.]* ./ && rm -rf *~ && rm -rf hexoonreplit`
 
 当加载完 Loading Nix environment... 后点击绿色 ▶ Run
 
